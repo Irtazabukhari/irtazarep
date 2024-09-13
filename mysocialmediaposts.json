@@ -1,0 +1,42 @@
+[
+    {
+      "userId": 1,
+      "id": "1",
+      "username": "Harshal123",
+      "userprofilepicture": "https://picsum.photos/200",
+      "userpost": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsj05x1ZeaMrsGJeJiIAMBc5nnrhm_w7Nsmw&usqp=CAU",
+      "userpostdescription": "Hey there is my post description"
+    },
+    {
+      "userId": 2,
+      "id": "2",
+      "username": "Viraj123",
+      "userprofilepicture": "https://picsum.photos/200",
+      "userpost": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsj05x1ZeaMrsGJeJiIAMBc5nnrhm_w7Nsmw&usqp=CAU",
+      "userpostdescription": "Hey there is my post description"
+    },
+    {
+      "userId": 3,
+      "id": "3",
+      "username": "Vedika123",
+      "userprofilepicture": "https://picsum.photos/200",
+      "userpost": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsj05x1ZeaMrsGJeJiIAMBc5nnrhm_w7Nsmw&usqp=CAU",
+      "userpostdescription": "Hey there is my post description"
+    },
+    {
+      "userId": 4,
+      "id": "4",
+      "username": "Amogh123",
+      "userprofilepicture": "https://picsum.photos/200",
+      "userpost": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsj05x1ZeaMrsGJeJiIAMBc5nnrhm_w7Nsmw&usqp=CAU",
+      "userpostdescription": "Hey there is my post description"
+    },
+    {
+      "userId": 5,
+      "id": "5",
+      "username": "Akshay123",
+      "userprofilepicture": "https://picsum.photos/200",
+      "userpost": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsj05x1ZeaMrsGJeJiIAMBc5nnrhm_w7Nsmw&usqp=CAU",
+      "userpostdescription": "Hey there is my post description"
+    }
+  ]
